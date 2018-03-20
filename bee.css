@@ -1,0 +1,16 @@
+body {
+    background-color : #ccffff; 
+    font-family : sans-serif;
+    color : #003333;
+}
+
+p {
+    width : 50%;
+}
+
+#centerwrap {
+    position : absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -500px;
+}
